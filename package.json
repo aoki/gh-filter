@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/ringohub/gh-filter/issues"
   },
-  "homepage": "https://github.com/ringohub/gh-filter#readme"
+  "homepage": "https://github.com/ringohub/gh-filter#readme",
+  "dependencies": {
+    "next": "1.2.3",
+    "octonode": "0.7.7",
+    "sqlite3": "3.1.8"
+  },
+  "devDependencies": {
+    "ava": "0.17.0",
+    "xo": "0.17.1"
+  }
 }
