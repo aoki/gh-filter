@@ -1,0 +1,22 @@
+{
+  "name": "gh-filter",
+  "version": "0.1.0",
+  "description": "Filtering GitHub Repositories by custom tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ringohub/gh-filter.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "aoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ringohub/gh-filter/issues"
+  },
+  "homepage": "https://github.com/ringohub/gh-filter#readme"
+}
